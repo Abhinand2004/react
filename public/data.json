@@ -1,0 +1,29 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "course": "AI",
+        "fees": 1000,
+        "duration": "6 Months"
+      },
+      {
+        "id": 1,
+        "course": "MERN",
+        "fees": 12000,
+        "duration": "8 Months"
+      },
+      {
+        "id": 1,
+        "course": "FLUTER",
+        "fees": 15000,
+        "duration": "12 Months"
+      },
+      {
+        "id": 1,
+        "course": "PYTHON",
+        "fees": 1000,
+        "duration": "4 Months"
+      }
+    ]
+  }
+  
