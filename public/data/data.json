@@ -1,0 +1,33 @@
+[
+  {
+    "id": 1,
+    "course": "MERN",
+    "duration":"5 months",
+    "fees":"12000"
+  },
+  {
+    "id": "2",
+    "course": "FLUTER",
+    "duration":"3 months",
+    "fees":"15000"
+  },
+  
+  {
+    "id": 3,
+    "course": "PYTHON",
+    "duration":"8 months",
+    "fees":"1000"
+  },
+  {
+    "id": "4",
+    "course": "AI",
+    "duration":"12 months",
+    "fees":"10200"
+  },
+  {
+    "id": "5",
+    "course": "AI",
+    "duration":"12 months",
+    "fees":"10200"
+  }
+]

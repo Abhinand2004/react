@@ -1,0 +1,18 @@
+.App{
+    display: flex;
+    gap: 100px;
+}
+.rightside{
+    display: flex;
+    gap: 30px;
+    margin-top: 70px;
+}
+.cards{
+    height: 150px;
+    width: 150px;
+    border: 1px solid gray;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 10px};
